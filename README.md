@@ -7,6 +7,7 @@ A simple web scraper to pull low tide information at the following locations:
 * Huntington Beach, California
 * Providence, Rhode Island
 * Wrightsville Beach, North Carolina
+
 Only low tide instances between sunrise and sunset are pulled. For each location, the height and time of low tide are printed.
 
 ## Dependencies
